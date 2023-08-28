@@ -19,3 +19,4 @@ For the training purpose, the model uses two neural networks that are similar in
 Epsilon is reduced linearly. It specifies the probability of exploration against exploitation.
 
 Lastly, results are analysed and we observe that the model gives and average annual return of 2.86% over a period of approximately 5 years.
+The images of these results are placed in the images folder.
